@@ -16,4 +16,4 @@ UNIVERSITY OF PLYMOUTH
 25/11/2018 Idea fully conceptualised and agreed on by all members
 27/11/2018 Working to create a comprehensive project plan
 29/11/2018 Deciding on appropriate technologies and methods to create our app
-30/11/2018 Gathering aesthetic and form inspiration from existing apps/websites and then analysing them
+30/11/2018 Gathering aesthetic inspiration from existing apps/websites and analysing them
