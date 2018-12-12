@@ -24,3 +24,5 @@ UNIVERSITY OF PLYMOUTH
 30/11/2018 Gathering aesthetic inspiration from existing apps/websites and analysing them
 04/12/2018 Furthering and updating subject and technical research documents
 07/12/2018 Friday 12 o'clock group meeting
+10/12/2018 Analysing current advertising campaigns on a similar theme
+12/12/2018 Wednesday 12 o'clock group meeting
