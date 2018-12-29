@@ -4,9 +4,15 @@ DIGITAL MEDIA DESIGN
 UNIVERSITY OF PLYMOUTH
 22/10/2018 - 10/01/2019
 
+Group Roles:
+Project Manager		Sidney Kingsley
+Design/Technology	Ben Langham
+Marketing		Alex Coghlan
+Content			Ethan Bull
 
+Project Log:
 01/11/2018 Group decision to create something which helps the environment
-02/11/2018 Set up friday 12 o'clock meetings
+02/11/2018 Set up Friday 12 o'clock meetings
 05/11/2018 Decided to create an application as our product
 09/11/2018 Friday 12 o'clock group meeting
 10/11/2018 Slack, Messenger and Google Docs communication systems set up
