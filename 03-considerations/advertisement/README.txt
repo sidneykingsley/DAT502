@@ -10,7 +10,7 @@ Current Advert Analysis.docx
 Content: 
 Explore current effective advertisement campaigns which are similar in purpose to our app and analyse them. Select aspects and techniques which could be useful to incorporate in our advertisements for our application.
  
-Analysis format:
+Posible format:
 1.	What attracts attention?
 2.	What do you like about it?
 3.	Is there anything important or relevant to the campaign in the colour/layout they have chosen?
