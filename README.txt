@@ -28,3 +28,5 @@ UNIVERSITY OF PLYMOUTH
 11/12/2018 Target Market Research
 12/12/2018 Wednesday 12 o'clock group meeting
 12/12/2018 Wireframe mockups
+25/12/2018 Christmas!!
+29/12/2018 Updated README files and added one for everything we are missing
